@@ -1,0 +1,1 @@
+Must use Fabric installer to install fabric for 1.21.4 minecraft. When loaded into the minecraft launcher, click installations, then the folder next to fabric 1.21.4, then put these files in the 'mods' folder. 
